@@ -40,3 +40,18 @@
 | RE1                 |  10    | None |
 | RE2                 |  30    | None |
 | RE3                 |  50    | None |
+
+## Cryptography
+
+| Challenge           | Points | Port |
+| --------------------| ------ | ---- |
+| Crypto1             |  10    | None |
+| Crypto2             |  20    | None |
+| Crypto3             |  30    | None |
+
+## Steganography
+
+| Challenge           | Points | Port |
+| --------------------| ------ | ---- |
+| Stego1              |  10    | None |
+| Stego2              |  25    | None |
