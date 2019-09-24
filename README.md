@@ -33,6 +33,13 @@
 | Bof2                |  50    | 9100 |
 | Uaf1                |  75    | 9200 |
 
+### Web Exploitation
+
+| Challenge           | Points | Port |
+| --------------------| ------ | ---- |
+| Web1                |  10    | None |
+| Web2                |  40    | None |
+
 ### Reverse Engineering
 
 | Challenge           | Points | Port |
@@ -55,3 +62,9 @@
 | --------------------| ------ | ---- |
 | Stego1              |  10    | None |
 | Stego2              |  25    | None |
+
+## Advanced
+
+| Challenge           | Points | Port |
+| --------------------| ------ | ---- |
+| No Output           |  250   | None |

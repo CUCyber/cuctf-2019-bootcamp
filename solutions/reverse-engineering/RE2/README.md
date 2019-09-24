@@ -46,9 +46,6 @@ UPX 3.95        Markus Oberhumer, Laszlo Molnar & John Reiser   Aug 26th 2018
 Unpacked 1 file.
 ```
 
-If we run re2, nothing appears to happen. We can try our strings trick again to see if we see the flag.
+If we run re2, nothing appears to happen. Let's examine it in a reverse engineering platform like Cutter:
 
-```
-$ strings re2 | grep "BOOTCAMP"
-BOOTCAMP{upx_is_a_common_packer}
-```
+![cutter](cutter.png)
