@@ -37,8 +37,9 @@
 
 | Challenge           | Points | Port |
 | --------------------| ------ | ---- |
-| Web1                |  10    | None |
-| Web2                |  40    | None |
+| Web1                |  10    | 7000 |
+| Web2                |  40    | 7100 |
+| Web3                |  60    | 7200 |
 
 ### Reverse Engineering
 
@@ -62,9 +63,3 @@
 | --------------------| ------ | ---- |
 | Stego1              |  10    | None |
 | Stego2              |  25    | None |
-
-## Advanced
-
-| Challenge           | Points | Port |
-| --------------------| ------ | ---- |
-| No Output           |  250   | None |
